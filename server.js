@@ -1,1 +1,1 @@
-console.log('serving like a king');
+console.log('serving like a boss');
